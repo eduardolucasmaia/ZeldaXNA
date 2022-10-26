@@ -1,0 +1,2 @@
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPCContent\obj\x86\Debug\ZeldaPCContent.contentprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPCContent\obj\x86\Debug\ZeldaPCContent.contentprojResolveAssemblyReference.cache

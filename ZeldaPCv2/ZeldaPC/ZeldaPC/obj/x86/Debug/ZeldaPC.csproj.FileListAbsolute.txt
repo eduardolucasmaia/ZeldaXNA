@@ -1,0 +1,54 @@
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.csprojResolveAssemblyReference.cache
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Mapas\TextFile1.txt
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.jpg
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.png
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.spritefont
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.pdb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.pdb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\ParadoCima.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima01.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima00.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.xnb
+D:\Eduardo\Documents\Visual Studio 2010\Projects\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.png
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Mapas\TextFile1.txt
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\ParadoCima.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima01.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima00.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.png
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.jpg
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.png
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.spritefont
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.pdb
+D:\Eduardo\Desktop\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.pdb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Mapas\TextFile1.txt
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\ParadoCima.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima01.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\player\AndandoCima00.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senarioSuperior.png
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\quad.jpg
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\senario.png
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\Content\SpriteFont1.spritefont
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\bin\x86\Debug\ZeldaPC.pdb
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.exe
+D:\Eduardo\Desktop\Zelda XNA\ZeldaPC\ZeldaPC\ZeldaPC\obj\x86\Debug\ZeldaPC.pdb

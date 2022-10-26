@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionTexture", "CollisionTexture\CollisionTexture.csproj", "{E40C4030-24C6-43B4-9C40-F4D99A8B3153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionTextureContent", "CollisionTexture\Content\CollisionTextureContent.contentproj", "{C966AFD1-19C9-47D2-8400-8FA7D72D63EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40C4030-24C6-43B4-9C40-F4D99A8B3153}.Debug|x86.ActiveCfg = Debug|x86
+		{E40C4030-24C6-43B4-9C40-F4D99A8B3153}.Debug|x86.Build.0 = Debug|x86
+		{E40C4030-24C6-43B4-9C40-F4D99A8B3153}.Release|x86.ActiveCfg = Release|x86
+		{E40C4030-24C6-43B4-9C40-F4D99A8B3153}.Release|x86.Build.0 = Release|x86
+		{C966AFD1-19C9-47D2-8400-8FA7D72D63EA}.Debug|x86.ActiveCfg = Debug|x86
+		{C966AFD1-19C9-47D2-8400-8FA7D72D63EA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

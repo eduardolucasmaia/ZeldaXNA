@@ -1,0 +1,21 @@
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.exe
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.pdb
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.exe
+c:\users\kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.pdb
+C:\Users\Kleber\documents\visual studio 2010\Projects\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\Content\fantasma.xnb
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\Content\fantasma.xnb
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.exe
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.pdb
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.exe
+D:\Eduardo\Desktop\TutorialColisaoRetangulo\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.pdb
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\Content\fantasma.xnb
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.exe
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\bin\x86\Debug\TutorialColisaoRetangulo.pdb
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.exe
+D:\Eduardo\Desktop\Zelda Teste\Colisao Fantasmas\TutorialColisaoRetangulo\TutorialColisaoRetangulo\obj\x86\Debug\TutorialColisaoRetangulo.pdb

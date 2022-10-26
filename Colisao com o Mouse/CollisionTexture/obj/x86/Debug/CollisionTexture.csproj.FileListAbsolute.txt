@@ -1,0 +1,20 @@
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\Content\tower.xnb
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\Content\path.xnb
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\Content\inactive.xnb
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\Content\map.xnb
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\CollisionTexture.exe
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\bin\x86\Debug\CollisionTexture.pdb
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\obj\x86\Debug\CollisionTexture.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\obj\x86\Debug\CollisionTexture.exe
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\obj\x86\Debug\CollisionTexture.pdb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\Content\tower.xnb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\Content\path.xnb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\Content\inactive.xnb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\Content\map.xnb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\CollisionTexture.exe
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\bin\x86\Debug\CollisionTexture.pdb
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\obj\x86\Debug\CollisionTexture.csprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\obj\x86\Debug\CollisionTexture.exe
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\obj\x86\Debug\CollisionTexture.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="1" height="1" tilewidth="24" tileheight="32">
+ <tileset firstgid="1" name="24x32" tilewidth="24" tileheight="32">
+  <image source="Zelda Tiles e Player/Tiles/24x32.png" trans="ffffff" width="144" height="256"/>
+ </tileset>
+ <layer name="Camada de Tiles 1" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJwTZWBgAAAAWAAW
+  </data>
+ </layer>
+</map>

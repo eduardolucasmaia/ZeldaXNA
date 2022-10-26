@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeldaPC", "ZeldaPC\ZeldaPC\ZeldaPC.csproj", "{A1AC6E02-5775-45DB-9395-78DC3742995F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZeldaPCContent", "ZeldaPC\ZeldaPCContent\ZeldaPCContent.contentproj", "{6E7BA0F9-A4AE-4389-AF31-C4F06113F815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AC6E02-5775-45DB-9395-78DC3742995F}.Debug|x86.ActiveCfg = Debug|x86
+		{A1AC6E02-5775-45DB-9395-78DC3742995F}.Debug|x86.Build.0 = Debug|x86
+		{A1AC6E02-5775-45DB-9395-78DC3742995F}.Release|x86.ActiveCfg = Release|x86
+		{A1AC6E02-5775-45DB-9395-78DC3742995F}.Release|x86.Build.0 = Release|x86
+		{6E7BA0F9-A4AE-4389-AF31-C4F06113F815}.Debug|x86.ActiveCfg = Debug|x86
+		{6E7BA0F9-A4AE-4389-AF31-C4F06113F815}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

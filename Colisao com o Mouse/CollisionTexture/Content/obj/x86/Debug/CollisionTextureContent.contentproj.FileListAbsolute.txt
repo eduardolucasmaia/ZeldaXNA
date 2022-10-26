@@ -1,0 +1,2 @@
+D:\Eduardo\Desktop\CollisionTexture\CollisionTexture\Content\obj\x86\Debug\CollisionTextureContent.contentprojResolveAssemblyReference.cache
+D:\Eduardo\Desktop\Zelda Teste\Colisao com o Mouse\CollisionTexture\Content\obj\x86\Debug\CollisionTextureContent.contentprojResolveAssemblyReference.cache
